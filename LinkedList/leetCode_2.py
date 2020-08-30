@@ -14,7 +14,6 @@ class Solution:
         l1EndFlg = False
         l2EndFlg = False
         while(1):
-            #print(l1.val, l1.next, l2.val, l2.next)
             cipher = 0
             if(l1):
                 res.val += l1.val
